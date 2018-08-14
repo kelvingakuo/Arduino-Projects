@@ -1,4 +1,4 @@
-    <b>HEALTH MONITORING AND ALERTING SYSTEM</b> <br>
+    HEALTH MONITORING AND ALERTING SYSTEM
 The idea<br>
 1. Read parameters from several sensors i.e. blood pressure sensor, thermometer, and heartbeat sensor<br>
 2. Compute the health state based on ideal health conditions:<br>
